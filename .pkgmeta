@@ -1,4 +1,4 @@
-package-as: BetterBags-GreedyEmissarys
+package-as: BetterBags-GreedyEmissary
 enable-toc-creation: yes
 enable-nolib-creation: no
 
@@ -8,4 +8,4 @@ required-dependencies:
   - better-bags
 
 ignore:
-  - BetterBagsGreedyEmissarys.png
+  - BetterBagsGreedyEmissary.png
