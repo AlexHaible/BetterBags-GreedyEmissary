@@ -1,12 +1,12 @@
-## Interface: 110200, 110107, 50500, 40402, 11507
+## Interface: 110200, 110107
 
-## Title: BetterBags - GreedyEmissarys
+## Title: BetterBags - Greedy Emissary
 ## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
-## Notes: Puts all your hearthstones, and teleport items in one category.
+## Notes: Puts all items related to the Greedy Emissary event in one category.
 ## Version: @project-version@
 ## X-Date: @project-date-iso@
 ## X-Category: Bags & Inventory
-## X-Curse-Project-ID: 956341
+## X-Curse-Project-ID: 1299208
 ## Dependencies: BetterBags
 ## SavedVariables: BetterBags_Greedy EmissaryDB
 ## IconTexture: Interface\Icons\inv_misc_bag_24_netherweave_imbued
