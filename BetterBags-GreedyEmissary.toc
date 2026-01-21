@@ -1,4 +1,4 @@
-## Interface: 110205, 110207
+## Interface: 120000
 
 ## Title: BetterBags - Greedy Emissary
 ## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
